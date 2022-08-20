@@ -1,0 +1,219 @@
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "Ubuntu", sans-serif;
+  color: 000;
+  font-size: 18px;
+  width: 100%;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  padding: 0;
+  margin: 0;
+}
+
+ul,
+li {
+  display: block;
+  padding: 0;
+  margin: 0;
+}
+
+.container {
+  width: 1136px;
+  margin: 0 auto;
+}
+
+.head {
+  width: 100%;
+  background-color: #61bada;
+}
+
+.logo {
+  margin-right: 135px;
+}
+
+.head a {
+  color: #fff;
+}
+
+.menu {
+  display: flex;
+}
+
+.menu li a {
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.menu li {
+  margin-right: 56px;
+}
+
+.about {
+  margin-right: 0;
+}
+
+.tell {
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: bold;
+  margin-left: 136px;
+}
+
+.nav {
+  display: flex;
+  align-items: center;
+  padding-top: 14px;
+  padding-bottom: 14px;
+}
+
+.container-section {
+  block-size: 568px;
+  background-color: #61bada;
+  display: flex;
+  align-items: center;
+  left: auto;
+  justify-content: center;
+}
+
+.why {
+  margin-right: 50px;
+}
+
+.why h1 {
+  color: #fff;
+  font-size: 64px;
+  font-weight: bold;
+  word-break: break-all;
+  width: 530px;
+}
+
+.why p {
+  color: #fff;
+  font-size: 24px;
+  width: 413px;
+  font-style: italic;
+}
+
+.container-section2 {
+  display: flex;
+  align-items: center;
+  left: auto;
+  justify-content: center;
+}
+
+.recurring-payment {
+  margin-right: 147px;
+  margin-top: 80px;
+}
+
+.recurring-payment h2 {
+  color: #333333;
+  font-size: 36px;
+  font-weight: bold;
+  width: 407px;
+  margin-bottom: 14px;
+}
+
+.recurring-payment p {
+  color: #333333;
+  font-size: 18px;
+  font-weight: 500;
+  width: 656px;
+}
+
+.photo2 {
+  margin-top: 80px;
+}
+
+.container-section3 {
+  display: flex;
+  align-items: center;
+  left: auto;
+  justify-content: center;
+}
+
+.why-recurrent-payment {
+  margin-right: 147px;
+  margin-top: 62px;
+}
+
+.why-recurrent-payment h3 {
+  color: #333333;
+  font-size: 36px;
+  font-weight: bold;
+  width: 600px;
+  margin-bottom: 14px;
+}
+
+.why-recurrent-payment p {
+  color: #333333;
+  font-size: 18px;
+  font-weight: 500;
+  width: 656px;
+}
+
+.photo3 {
+  margin-top: 68px;
+  margin-left: -39px;
+}
+
+.container-section4 {
+  display: flex;
+  align-items: center;
+  left: auto;
+  justify-content: center;
+  margin-left: 153px;
+}
+
+.what-is-the-result {
+  margin-right: 147px;
+  margin-top: 62px;
+}
+
+.what-is-the-result h4 {
+  color: #333333;
+  font-size: 36px;
+  font-weight: bold;
+  width: 477px;
+  margin-bottom: 14px;
+}
+
+.what-is-the-result p {
+  color: #333333;
+  font-size: 18px;
+  font-weight: 500;
+  width: 1136px;
+}
+
+.container-section5 {
+  display: flex;
+  align-items: center;
+  left: auto;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.foot {
+  width: 100%;
+  background-color: #61bada;
+  display: flex;
+  align-items: center;
+  left: auto;
+  justify-content: center;
+}
+
+.logo-footer {
+  margin-left: 12px;
+  padding-top: 35px;
+  padding-bottom: 35px;
+}
+.container-foooter {
+  margin-left: -931px;
+}
